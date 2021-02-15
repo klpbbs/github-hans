@@ -113,14 +113,14 @@ I18N.zh = {
             "(Forgot password)": "(忘记密码)",
             "Confirm password": "继续",
 
-            "Updated": "更新",
             "Terms": "条款",
             "Privacy": "隐私",
             "Security": "安全",
-            "Contact": "联系",
             "Status": "状态",
+			"Docs": "文档",
+            "Contact GitHub": "联系Github",
+            "API": "接口",
             "Training": "培训",
-            "Shop": "商店",
             "Blog": "博客",
             "About": "关于",
 
